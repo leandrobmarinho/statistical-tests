@@ -1,0 +1,6 @@
+statsmodels
+numpy
+pandas
+matplotlib
+jupyter-lab
+scikit-posthocs
