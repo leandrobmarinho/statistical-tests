@@ -1,0 +1,4 @@
+,Source of Variation,Sum of Squares (SS),Degrees of Freedom (DF),Mean Squares (MS),F-value,p-value
+0,Between Groups,102329.51234999951,7,14618.501764285644,827.0064465686164,0.0
+1,Within Groups,431959079.4155999,792,545402.8780499998,,
+2,Total,432061408.9279499,799,,,
